@@ -1,7 +1,7 @@
 ### Hi there 👋
 # Jhonnatthan Santana
 
-Hello, my name is jhonnatthan, sometimes Jhow, sometimes Jhon, as you prefer, I'm a front-end engineer at Netuno Tech, and currently studying internet systems at FATEC Rubens Lara, if you want to talk to me, here are my networks social :)
+Hello, my name is Jhonnatthan, sometimes Jhow, sometimes Jhon, as you prefer, I'm a front-end engineer at Netuno Tech, and currently studying internet systems at FATEC Rubens Lara, if you want to talk to me, here are my networks social :)
 
 #  Social networks
 
