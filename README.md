@@ -1,4 +1,14 @@
 ### Hi there 👋
+
+<center>
+<table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonnatthan&layout=compact&theme=monokai" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=jhonnatthan&show_icons=true&theme=monokai"/></td>
+    </tr>   
+</table>
+</center>
+
 # Jhonnatthan Santana
 
 Hello, my name is Jhonnatthan, sometimes Jhow, sometimes Jhon, as you prefer, I'm a front-end engineer at [Netuno Tech](https://github.com/Netuno-Tech), and currently studying internet systems at FATEC Rubens Lara, if you want to talk to me, here are my networks social :)
