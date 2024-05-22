@@ -40,7 +40,7 @@ These are some of the technologies and tools that I work with:
 
 ## Back-end
 
-![Python](https://img.shields.io/badge/-Python-339933?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-306A99?style=flat-square&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Wordpress](https://img.shields.io/badge/-Wordpress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
@@ -52,7 +52,7 @@ These are some of the technologies and tools that I work with:
 
 ![ReactNative](https://img.shields.io/badge/-ReactNative-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![Ionic](https://img.shields.io/badge/-Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-3880FF?style=flat-square&logo=ionic&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-4CD3FD?style=flat-square&logo=flutter&logoColor=white)
 
 ## Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
