@@ -11,10 +11,10 @@
 
 # Jhonnatthan Santana
 
-Hello, my name is Jhonnatthan, sometimes Jhow, sometimes Jhon, as you prefer, I'm a front-end engineer at [Netuno Tech](https://github.com/Netuno-Tech), and currently studying internet systems at FATEC Rubens Lara, if you want to talk to me, here are my networks social :)
+Hello, my name is Jhonnatthan, sometimes Jhow, sometimes Jhon, as you prefer, I'm a Tech Lead at [Prosperità](https://prosperitasolution.com.br/), and graduated in internet systems at FATEC Rubens Lara, if you want to talk to me, here are my networks social :)
 
-- 🔭 I’m currently working on Netuno Tech
-- 🌱 I’m currently learning NodeJS
+- 🔭 I’m currently working on Prosperità
+- 🌱 I’m currently learning Python
 - 💬 Ask me about React and React Native
 - 😄 Pronouns: he/him
 
@@ -40,6 +40,7 @@ These are some of the technologies and tools that I work with:
 
 ## Back-end
 
+![Python](https://img.shields.io/badge/-Python-339933?style=flat-square&logo=php&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Wordpress](https://img.shields.io/badge/-Wordpress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
@@ -51,6 +52,7 @@ These are some of the technologies and tools that I work with:
 
 ![ReactNative](https://img.shields.io/badge/-ReactNative-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![Ionic](https://img.shields.io/badge/-Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-3880FF?style=flat-square&logo=ionic&logoColor=white)
 
 ## Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
